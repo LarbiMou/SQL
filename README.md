@@ -1,2 +1,2 @@
-# SQL -- SQL Projects
+# SQL -
 All of my SQL Projects
