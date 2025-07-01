@@ -24,11 +24,6 @@ Clustering: Grouped firms by EBITDA/revenue growth
 3. Clinical Decision Support
 93% Accuracy: Fetal health classifier using rpart
 Feature Importance: Short-term variability = top predictor
-Technical Toolkit
-Core Languages:
-https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white
-
-https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white
 
 ## Key Packages:
 ### Category	Tools
