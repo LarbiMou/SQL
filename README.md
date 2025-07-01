@@ -1,17 +1,17 @@
 # SQL - R Data Science Portfolio
 ## Author: Larbi Moukhlis
 ### Project Highlights
-## Diverse Analytical Domains:
-## Financial Markets: S&P 500 sector performance, EBITDA clustering
-## Public Sector: Government contract timelines, approval patterns
-## Healthcare: Fetal health classification, life expectancy modeling
-## Retail: Sales transaction analytics, inventory optimization
+ Diverse Analytical Domains:
+ Financial Markets: S&P 500 sector performance, EBITDA clustering
+ Public Sector: Government contract timelines, approval patterns
+ Healthcare: Fetal health classification, life expectancy modeling
+ Retail: Sales transaction analytics, inventory optimization
 Technical Showcase
 ##  Methodologies:
-## Descriptive Analytics: Distributions, outlier detection
-## Predictive Modeling: Linear regression, decision trees, k-means
-## Optimization: Linear programming for resource allocation
-## Visual Storytelling: Interactive dashboards, geospatial plots
+ Descriptive Analytics: Distributions, outlier detection
+ Predictive Modeling: Linear regression, decision trees, k-means
+ Optimization: Linear programming for resource allocation
+ Visual Storytelling: Interactive dashboards, geospatial plots
 ## Featured Projects
 #### 1. Contract Analytics Suite
 Analyzed 50,000+ government contracts
