@@ -32,6 +32,6 @@ https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white
 
 ### Key Packages:
 ## Category	Tools
-## Wrangling	dplyr, tidyr, lubridate
-## Viz	ggplot2, plotly, ggmap
-## ML	caret, rpart, randomForest
+ Wrangling	dplyr, tidyr, lubridate
+ Viz	ggplot2, plotly, ggmap 
+ ML	caret, rpart, randomForest
